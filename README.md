@@ -11,7 +11,7 @@ The script [forms.py](https://github.com/sushantgupta1206/GUPSUS03part1/blob/mas
 
 **The Output and inferences :**   
   
-Please check the output files in the output folder [here]https://github.com/sushantgupta1206/GUPSUS03part1/tree/master/Outputs) and the json object which the code generated [here] (https://github.com/sushantgupta1206/GUPSUS03part1/blob/master/ExpediaTwitterScrapper/Top_8_Tweets.json) to verify the correctness.   
+Please check the output files in the output folder [here](https://github.com/sushantgupta1206/GUPSUS03part1/tree/master/Outputs) and the json object which the code generated [here](https://github.com/sushantgupta1206/GUPSUS03part1/blob/master/ExpediaTwitterScrapper/Top_8_Tweets.json) to verify the correctness.   
   
 **Steps to Run the code:**   
 > 1. clone the repository using `git clonehttps://github.com/sushantgupta1206/GUPSUS03part1.git` on the local machine
